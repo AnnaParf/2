@@ -1,0 +1,46 @@
+body {
+background-color: rgb(237, 237, 237);
+
+}
+
+#main-menu  {
+  
+    text-align: center;
+    background-color: rgb(197, 197, 241);
+}
+}
+#maim-menu  ul {
+
+}
+#main-menu ul li {
+   
+    display: inline;
+    margin-left: 30px;
+   
+}
+#main-menu ul li a {
+    font-size: 30px;
+text-decoration: none;
+color: rgb(70, 68, 211);
+}
+#main-menu ul li a :hover {
+color: rgb(216, 79, 25);
+cursor: pointer; }
+
+.alarm  {
+    text-align: center;
+   
+}
+
+.site-header{ 
+    text-align: center;
+}
+.col-main{
+    width: 50%;
+    float: left;
+}
+.col-sidebar{
+    width: 50%;
+    float: right;
+}
+
